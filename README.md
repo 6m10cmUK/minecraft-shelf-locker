@@ -138,19 +138,12 @@ BookshelfBarrier/
 ├── manifest.json         # パック設定
 ├── scripts/
 │   └── main.js          # メインロジック
-├── README.md            # このファイル
-└── __think__/           # 開発用ドキュメント
-    ├── bookshelfbarrier.txt
-    └── implementation_plan.md
+└── README.md            # このファイル
 ```
 
 ## ライセンス
 
 このアドオンは自由に使用・改変・配布できます。
-
-## 開発情報
-
-詳細な技術仕様や実装計画については、`__think__/` ディレクトリ内のドキュメントを参照してください。
 
 ---
 
