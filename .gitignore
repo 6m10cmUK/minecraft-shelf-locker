@@ -1,0 +1,17 @@
+# Minecraft pack files
+*.mcpack
+*.mcaddon
+
+# Development files
+__think__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
